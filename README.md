@@ -62,7 +62,7 @@ Edit personal info in index.html
 
 🌐 Live Demo
 Check out the live version:
-👉 https://your-portfolio.netlify.app
+👉 https://sharveshsanjay.netlify.app
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -70,21 +70,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 🤝 Contributing
 While this is a personal project, suggestions are welcome! Please open an issue first to discuss changes.
 
-✨ Developed by [Your Name]
-📧 Contact: youremail@example.com
-🔗 Portfolio: yourwebsite.com
+📧 Contact: sharveshsanjay10@gmail.com
+🔗 Portfolio: sharveshsanjay.netlify.app
 
 
-### How to Use This README:
-1. Replace placeholder text (like `your-username`, `YOUR_PUBLIC_KEY`, etc.) with your actual information
-2. Add real screenshots to `/screenshots` folder
-3. Update the Features list based on what your portfolio actually includes
-4. Include your preferred contact methods
 
-### Pro Tips:
-- Use **emoji headings** (like I did above) to make sections stand out
-- Add a **"Projects" section** if you want to highlight specific work samples
-- Include **badges** from shields.io for tech stack visualization
-- Add a **development section** if you want to explain your design decisions
-
-Would you like me to add any specific sections like deployment instructions or tech stack explanations in more detail?
