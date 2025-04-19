@@ -919,7 +919,7 @@
 
 <script>
   (function () {
-    emailjs.init('pHyZuOMbI5tUj_LYa'); // Replace with your EmailJS user ID
+    emailjs.init('public_key'); // Replace with your EmailJS user ID
 
     const form = document.getElementById('contact-form');
     const submitButton = form.querySelector('[data-form-btn]');
@@ -945,7 +945,7 @@
         message: formData.get('message')
       };
 
-      emailjs.send('service_ompfaxe', 'template_yno4afc', messageData)
+      emailjs.send('service_id', 'template_id', messageData)
         .then(function (response) {
           console.log('SUCCESS!', response);
           alert('Your message has been sent!');
